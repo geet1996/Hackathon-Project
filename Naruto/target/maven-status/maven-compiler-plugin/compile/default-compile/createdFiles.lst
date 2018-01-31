@@ -1,0 +1,6 @@
+com/demo/Naruto/controller/CallLogController.class
+com/demo/Naruto/entity/CallsWrapper.class
+com/demo/Naruto/service/CallLogService.class
+com/demo/Naruto/main/Application.class
+com/demo/Naruto/dao/CallLogDAO.class
+com/demo/Naruto/entity/CallLog.class
