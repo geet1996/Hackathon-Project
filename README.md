@@ -1,2 +1,2 @@
-# hackathon_demo
+# Hackathon Project
 Hackathon Task Project
